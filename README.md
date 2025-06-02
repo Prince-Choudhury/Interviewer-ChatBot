@@ -2,8 +2,6 @@
 
 A professional interviewer chatbot built with Streamlit and LangChain that helps users practice job interviews in their chosen domain.
 
-![CareerForge Logo](logo.png)
-
 ## Features
 
 - Interactive chat interface for interview practice
@@ -26,8 +24,8 @@ A professional interviewer chatbot built with Streamlit and LangChain that helps
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/careerforge-interview-assistant.git
-   cd careerforge-interview-assistant
+   git clone https://github.com/Prince-Choudhury/Interviewer-ChatBot.git
+   cd Interviewer-ChatBot
    ```
 
 2. Create and activate a virtual environment (recommended):
@@ -85,5 +83,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Author
 
 Built with ❤️ by [Prince Choudhury](https://www.linkedin.com/in/prince-choudhury26/)
-
-GitHub: [Prince-Choudhury](https://github.com/Prince-Choudhury)
